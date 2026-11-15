@@ -1,0 +1,6 @@
+name = "komorebi-meal-api"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+[vars]
+ALLOWED_ORIGIN = "https://lisia229.github.io"
+# Set OPENAI_MODEL in the dashboard, and OPENAI_API_KEY / APP_TOKEN as secrets.
