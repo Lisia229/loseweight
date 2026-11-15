@@ -1,1 +1,26 @@
-{"id":"./","name":"木漏日 · 好好生活手帳","short_name":"木漏日","description":"記錄飲食、斷食、體重與運動小習慣","lang":"zh-Hant","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f5ef","theme_color":"#f7f4ed","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "./",
+  "name": "Lisia減肥日記",
+  "short_name": "Lisia減肥日記",
+  "description": "記錄飲食、斷食、體重與運動小習慣",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#f7f4ed",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
